@@ -1,4 +1,4 @@
-This folder contains the cleaned and transformed dataset prepared in excel for power bi analysisE-Commerce Revenue and Customer Satisfaction Analysis
+This folder contains the cleaned and transformed dataset prepared in excel for power bi analysis E-Commerce Revenue and Customer Satisfaction Analysis
 An end-to-end analytics project that cleans and analyses an e-commerce order dataset in Excel and presents the results in an interactive Power BI dashboard. The goal is to show how revenue is generated and how satisfied customers are, and how region, product category, discounts and delivery time influence both.
 
 Power BI Dashboard
