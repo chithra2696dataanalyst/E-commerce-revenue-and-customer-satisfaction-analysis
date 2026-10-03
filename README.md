@@ -238,5 +238,6 @@ All visuals cross-filter, so selecting a region or category updates every KPI an
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | your.email@example.com
+
+**[CHITHRA]**
+[LinkedIn](www.linkedin.com/in/chithra-s-668925410) | [GitHub](https://github.com/chithra2696dataanalyst) | er.chithra26496@gmail.com
